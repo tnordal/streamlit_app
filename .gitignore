@@ -1,3 +1,8 @@
+# This project
+*.jpg
+*.wmv
+# End this project
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
